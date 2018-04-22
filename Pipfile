@@ -5,14 +5,9 @@ name = "pypi"
 
 [packages]
 flask = "*"
-flask-script = "*"
-"flake8" = "*"
 flask-cors = "*"
 
 [dev-packages]
-pylint = "*"
-pylint-mccabe = "*"
-pylint-quotes = "*"
 
 [requires]
 python_version = "3.6"
